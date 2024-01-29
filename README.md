@@ -12,7 +12,7 @@ Created as the final project of the Diploma In Information and Communication Tec
 Year: 2020
 
 #### Authors:
-- Methsara Perera\
-- Shenaya Ruth\
-- Yalin Jayawardena\
-- Kaviru Manthila\
+- Methsara Perera
+- Shenaya Ruth
+- Yalin Jayawardena
+- Kaviru Manthila
